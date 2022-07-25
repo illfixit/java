@@ -7,7 +7,7 @@ Finish
 
 2. Types
 Start
-
+Finish
 
 3. Control Flow
 4. Clean Coding
