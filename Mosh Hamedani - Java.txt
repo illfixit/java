@@ -24,7 +24,7 @@ Finish
 Ultimate Java Part 2 Object-oriented Programming
 1. Getting Started
 Start
-
+Finish
 
 2. Classes 
 3. Refactoring Towards an Object-oriented Design 
