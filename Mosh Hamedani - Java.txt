@@ -28,7 +28,7 @@ Finish
 
 2. Classes
 Start
-
+Finish
 
 3. Refactoring Towards an Object-oriented Design 
 4. Inheritance
