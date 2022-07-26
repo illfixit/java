@@ -32,7 +32,7 @@ Finish
 
 3. Refactoring Towards an Object-oriented Design
 Start
-
+Finish
 
 4. Inheritance
 5. Interfaces 
