@@ -47,7 +47,10 @@ Ultimate Java Part 3 Advanced Topics
 Start
 Finish
 
-2. Exceptions 
+2. Exceptions
+Start
+
+
 3. Generics
 4. Collections
 5. Lambda Expressions and Functional Interfaces 
