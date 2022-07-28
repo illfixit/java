@@ -59,7 +59,10 @@ Finish
 Start
 Finish
 
-5. Lambda Expressions and Functional Interfaces 
-6. Streams 
-7. Concurrency and Multi-threading 
+5. Lambda Expressions and Functional Interfaces
+Start
+
+
+6. Streams
+7. Concurrency and Multi-threading
 8. The Executive Framework
