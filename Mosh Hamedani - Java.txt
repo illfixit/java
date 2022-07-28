@@ -61,7 +61,7 @@ Finish
 
 5. Lambda Expressions and Functional Interfaces
 Start
-
+Finish
 
 6. Streams
 7. Concurrency and Multi-threading
