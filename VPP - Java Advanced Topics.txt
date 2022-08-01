@@ -9,6 +9,9 @@ Start
 Finish
 
 3 - Generics
+Start
+
+
 4 – Lambda Functions
 5 – Threading
 6 – Memory
