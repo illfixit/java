@@ -2,7 +2,7 @@ VPP - Java Advanced Topics
 
 1 - Collections
 Start
-
+Finish
 
 2 – Logging
 3 - Generics
