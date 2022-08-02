@@ -13,5 +13,8 @@ Start
 Finish
 
 4 – Lambda Functions
+Start
+
+
 5 – Threading
 6 – Memory
