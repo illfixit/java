@@ -1,0 +1,31 @@
+LPA - Java Programming Masterclass for Software Developers
+
+1. Course Introduction
+Start
+
+
+2. Software Tools Setup
+3. First Steps
+4. Java Tutorial Expressions, Statements, Code blocks, Methods and more
+5. Control Flow Statements
+6. OOP Part 1 - Classes, Constructors and Inheritance
+7. OOP Part 2 - Composition, Encapsulation, and Polymorphism
+8. Arrays, Java inbuilt Lists, Autoboxing and Unboxing
+9. Inner and Abstract Classes & Interfaces
+10. Java Generics
+11. Naming Conventions and Packages.  static and final keywords
+12. Java Collections
+13. JavaFX
+14. Basic Input & Output including java.util
+15. Concurrency in Java
+16. Lambda Expressions
+17. Regular Expressions
+18. Debugging and Unit Testing
+19. Databases
+20. Java Networking Programming
+21. Java 9 Module System
+22. Migrating Java Projects to Java 9
+23. Course Remaster in Progress
+24. Archived Videos
+25. Extra Information - Source code, and other stuff
+
