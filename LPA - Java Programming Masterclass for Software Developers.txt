@@ -6,7 +6,7 @@ Finish
 
 2. Software Tools Setup
 Start
-
+Finish
 
 3. First Steps
 4. Java Tutorial Expressions, Statements, Code blocks, Methods and more
