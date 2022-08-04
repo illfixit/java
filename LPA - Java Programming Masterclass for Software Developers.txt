@@ -5,6 +5,9 @@ Start
 Finish
 
 2. Software Tools Setup
+Start
+
+
 3. First Steps
 4. Java Tutorial Expressions, Statements, Code blocks, Methods and more
 5. Control Flow Statements
