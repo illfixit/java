@@ -2,7 +2,7 @@ LPA - Java Programming Masterclass for Software Developers
 
 1. Course Introduction
 Start
-
+Finish
 
 2. Software Tools Setup
 3. First Steps
