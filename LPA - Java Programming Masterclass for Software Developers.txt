@@ -28,7 +28,11 @@ Finish
 Start
 Finish
 
-8. Arrays, Java inbuilt Lists, Autoboxing and Unboxing
+8. Arrays, Java inbuilt Lists, Autoboxing and Unboxing Part I
+Start
+
+8. Arrays, Java inbuilt Lists, Autoboxing and Unboxing Part II
+
 9. Inner and Abstract Classes & Interfaces
 10. Java Generics
 11. Naming Conventions and Packages.  static and final keywords
