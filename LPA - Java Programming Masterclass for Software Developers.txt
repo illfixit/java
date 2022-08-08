@@ -25,6 +25,9 @@ Start
 Finish
 
 7. OOP Part 2 - Composition, Encapsulation, and Polymorphism
+Start
+
+
 8. Arrays, Java inbuilt Lists, Autoboxing and Unboxing
 9. Inner and Abstract Classes & Interfaces
 10. Java Generics
