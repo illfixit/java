@@ -48,7 +48,14 @@ Finish
 Start
 Finish
 
-12. Java Collections
+12. Java Collections Part I
+Start
+12. Java Collections Part II
+12. Java Collections Part II
+12. Java Collections Part IV
+
+
+
 13. JavaFX
 14. Basic Input & Output including java.util
 15. Concurrency in Java
