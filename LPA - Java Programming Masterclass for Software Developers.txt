@@ -50,6 +50,8 @@ Finish
 
 12. Java Collections Part I
 Start
+Finish
+
 12. Java Collections Part II
 12. Java Collections Part II
 12. Java Collections Part IV
