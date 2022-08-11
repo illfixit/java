@@ -62,7 +62,7 @@ Finish
 
 12. Java Collections Part IV
 Start
-
+Finish
 
 13. JavaFX
 14. Basic Input & Output including java.util
