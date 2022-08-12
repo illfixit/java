@@ -64,7 +64,15 @@ Finish
 Start
 Finish
 
-13. JavaFX
+13. JavaFX Part I
+Start
+
+
+13. JavaFX Part II
+13. JavaFX Part III
+13. JavaFX Part IV
+13. JavaFX Part V
+
 14. Basic Input & Output including java.util
 15. Concurrency in Java
 16. Lambda Expressions
