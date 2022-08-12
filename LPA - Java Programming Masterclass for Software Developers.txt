@@ -70,7 +70,7 @@ Finish
 
 13. JavaFX Part II
 Start
-
+Finish
 
 13. JavaFX Part III
 13. JavaFX Part IV
