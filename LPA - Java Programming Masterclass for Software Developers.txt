@@ -122,7 +122,7 @@ Finish
 
 16. Lambda Expressions Part I
 Start
-
+Finish
 
 16. Lambda Expressions Part II
 
