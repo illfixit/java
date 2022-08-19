@@ -125,6 +125,8 @@ Start
 Finish
 
 16. Lambda Expressions Part II
+Start
+
 
 17. Regular Expressions
 18. Debugging and Unit Testing
