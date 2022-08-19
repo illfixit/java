@@ -120,7 +120,12 @@ Finish
 Start
 Finish
 
-16. Lambda Expressions
+16. Lambda Expressions Part I
+Start
+
+
+16. Lambda Expressions Part II
+
 17. Regular Expressions
 18. Debugging and Unit Testing
 19. Databases
