@@ -132,7 +132,14 @@ Finish
 Start
 Finish
 
-18. Debugging and Unit Testing
+18. Debugging and Unit Testing Part I
+Start
+
+
+18. Debugging and Unit Testing Part II
+
+
+
 19. Databases
 20. Java Networking Programming
 21. Java 9 Module System
