@@ -138,13 +138,14 @@ Finish
 
 18. Debugging and Unit Testing Part II
 Start
+Finish
 
+19. Databases Part I
+19. Databases Part II
+19. Databases Part III
+19. Databases Part IV
+19. Databases Part V
 
-19. Databases
 20. Java Networking Programming
 21. Java 9 Module System
 22. Migrating Java Projects to Java 9
-23. Course Remaster in Progress
-24. Archived Videos
-25. Extra Information - Source code, and other stuff
-
