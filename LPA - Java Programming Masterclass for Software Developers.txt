@@ -160,6 +160,11 @@ Finish
 Start
 Finish
 
-20. Java Networking Programming
+20. Java Networking Programming Part I
+Start
+
+
+20. Java Networking Programming Part II
+
 21. Java 9 Module System
 22. Migrating Java Projects to Java 9
