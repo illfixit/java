@@ -5,8 +5,13 @@ Start
 Finish
 
 02. Part One - Introducing Ant Part I
+Start
+
+
 02. Part One - Introducing Ant Part II
+
 03. Part Two - Introducing Maven Part I
 03. Part Two - Introducing Maven Part II
+
 04. Part Three - Introducing Gradle
 05. Course Summary
