@@ -14,7 +14,7 @@ Finish
 
 03. Part Two - Introducing Maven Part I
 Start
-
+Finish
 
 03. Part Two - Introducing Maven Part II
 
