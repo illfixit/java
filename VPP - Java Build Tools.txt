@@ -17,6 +17,8 @@ Start
 Finish
 
 03. Part Two - Introducing Maven Part II
+Start
+
 
 04. Part Three - Introducing Gradle
 05. Course Summary
