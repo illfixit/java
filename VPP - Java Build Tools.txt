@@ -22,6 +22,8 @@ Finish
 
 04. Part Three - Introducing Gradle
 Start
-
+Finish
 
 05. Course Summary
+
+
