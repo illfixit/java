@@ -1,23 +1,28 @@
 VPP - Spring Framework - Fundamentals
 
-Session 1 Part I
-Session 1 Part II
+01. Introduction
+Start
 
-Session 2
 
-Session 3 Part I
-Session 3 Part II
+02. Session 1 Part I
+02. Session 1 Part II
 
-Session 4 Part I
-Session 4 Part II
+03. Session 2
 
-Session 5 Part I
-Session 5 Part II
+04. Session 3 Part I
+04. Session 3 Part II
 
-Session 6
+05. Session 4 Part I
+05. Session 4 Part II
 
-Session 7
+06. Session 5 Part I
+06. Session 5 Part II
 
-Session 8 Part I
-Session 8 Part II
+07. Session 6
 
+08. Session 7
+
+09. Session 8 Part I
+09. Session 8 Part II
+
+10. Course Summary
