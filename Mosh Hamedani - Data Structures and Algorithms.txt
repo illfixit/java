@@ -7,7 +7,7 @@ Finish
 
 2. The Big O Notation
 Start
-
+Finish
 
 3. Arrays
 4. Linked Lists
