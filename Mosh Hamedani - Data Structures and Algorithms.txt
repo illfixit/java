@@ -6,6 +6,9 @@ Start
 Finish
 
 2. The Big O Notation
+Start
+
+
 3. Arrays
 4. Linked Lists
 5. Stacks
