@@ -2,6 +2,9 @@ Mosh Hamedani - Data Structures and Algorithms
 
 Data Structures and Algorithms Part 1
 1. Getting Started
+Start
+Finish
+
 2. The Big O Notation
 3. Arrays
 4. Linked Lists
