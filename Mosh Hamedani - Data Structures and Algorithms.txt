@@ -1,0 +1,25 @@
+Mosh Hamedani - Data Structures and Algorithms
+
+Data Structures and Algorithms Part 1
+1. Getting Started
+2. The Big O Notation
+3. Arrays
+4. Linked Lists
+5. Stacks
+6. Queues
+7. Hash Tables
+
+Data Structures and Algorithms Part 2
+1. Getting Started
+2. Binary Trees
+3. AVL Trees
+4. Heaps
+5. Tries
+6. Graphs
+7. Undirected Graphs
+
+Data Structures and Algorithms Part 3
+1. Getting Started
+2. Sorting Algorithms
+3. Searching Algorithms
+4. String Manipulation Algorithms
