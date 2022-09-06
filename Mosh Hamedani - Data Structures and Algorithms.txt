@@ -11,6 +11,7 @@ Finish
 
 3. Arrays
 Start
+Finish
 
 4. Linked Lists
 5. Stacks
