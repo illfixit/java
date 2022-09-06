@@ -19,7 +19,7 @@ Finish
 
 5. Stacks
 Start
-
+Finish
 
 6. Queues
 7. Hash Tables
