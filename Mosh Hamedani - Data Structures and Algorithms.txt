@@ -27,7 +27,7 @@ Finish
 
 7. Hash Tables
 Start
-
+Finish
 
 Data Structures and Algorithms Part 2
 1. Getting Started
