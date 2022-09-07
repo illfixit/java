@@ -23,7 +23,7 @@ Finish
 
 6. Queues
 Start
-
+Finish
 
 7. Hash Tables
 
