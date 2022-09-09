@@ -31,6 +31,9 @@ Finish
 
 Data Structures and Algorithms Part 2
 1. Getting Started
+Start
+
+
 2. Binary Trees
 3. AVL Trees
 4. Heaps
