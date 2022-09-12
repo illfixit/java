@@ -48,7 +48,7 @@ Finish
 
 5. Tries
 Start
-
+Finish
 
 6. Graphs
 7. Undirected Graphs
