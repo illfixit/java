@@ -44,7 +44,7 @@ Finish
 
 4. Heaps
 Start
-
+Finish
 
 5. Tries
 6. Graphs
