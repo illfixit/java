@@ -61,7 +61,7 @@ Finish
 Data Structures and Algorithms Part 3
 1. Getting Started
 Start
-
+Finish
 
 2. Sorting Algorithms
 3. Searching Algorithms
