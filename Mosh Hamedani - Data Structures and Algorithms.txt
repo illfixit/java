@@ -60,6 +60,9 @@ Finish
 
 Data Structures and Algorithms Part 3
 1. Getting Started
+Start
+
+
 2. Sorting Algorithms
 3. Searching Algorithms
 4. String Manipulation Algorithms
