@@ -68,4 +68,7 @@ Start
 Finish
 
 3. Searching Algorithms
+Start
+
+
 4. String Manipulation Algorithms
