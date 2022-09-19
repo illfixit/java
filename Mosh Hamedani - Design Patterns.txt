@@ -10,6 +10,9 @@ Start
 Finish
 
 03 - Memento Pattern
+Start
+
+
 04 - State Pattern
 05 - Iterator Pattern
 06 - Strategy Pattern
