@@ -1,0 +1,33 @@
+Mosh Hamedani - Design Patterns
+
+The Ultimate Design Patterns Part 1
+01 - Getting Started
+Start
+
+
+02 - The Essentials
+03 - Memento Pattern
+04 - State Pattern
+05 - Iterator Pattern
+06 - Strategy Pattern
+07 - Template Method Pattern
+08 - Command Pattern
+09 - Observer Pattern
+10 - Mediator Pattern
+11 - Chain of Responsibility
+12 - Visitor Pattern
+13 - Course Wrap Up
+
+The Ultimate Design Patterns Part 2
+01 - Getting Started
+02 - Composite Pattern
+03 - Adapter Pattern
+04 - Decorator Pattern
+05 - Facade Pattern
+06 - Flyweight Pattern
+07 - Bridge Pattern
+08 - Proxy Pattern
+09 - Course Wrap Up
+
+
+
