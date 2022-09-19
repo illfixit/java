@@ -6,6 +6,9 @@ Start
 Finish
 
 02 - The Essentials
+Start
+
+
 03 - Memento Pattern
 04 - State Pattern
 05 - Iterator Pattern
