@@ -3,7 +3,7 @@ Mosh Hamedani - Design Patterns
 The Ultimate Design Patterns Part 1
 01 - Getting Started
 Start
-
+Finish
 
 02 - The Essentials
 03 - Memento Pattern
