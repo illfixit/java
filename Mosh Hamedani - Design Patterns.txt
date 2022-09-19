@@ -7,7 +7,7 @@ Finish
 
 02 - The Essentials
 Start
-
+Finish
 
 03 - Memento Pattern
 04 - State Pattern
