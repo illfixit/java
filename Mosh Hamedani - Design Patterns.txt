@@ -26,6 +26,9 @@ Start
 Finish
 
 07 - Template Method Pattern
+Start
+
+
 08 - Command Pattern
 09 - Observer Pattern
 10 - Mediator Pattern
