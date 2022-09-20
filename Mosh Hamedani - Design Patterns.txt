@@ -30,6 +30,9 @@ Start
 Finish
 
 08 - Command Pattern
+Start
+
+
 09 - Observer Pattern
 10 - Mediator Pattern
 11 - Chain of Responsibility
