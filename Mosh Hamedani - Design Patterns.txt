@@ -23,7 +23,7 @@ Finish
 
 06 - Strategy Pattern
 Start
-
+Finish
 
 07 - Template Method Pattern
 08 - Command Pattern
