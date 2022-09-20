@@ -27,7 +27,7 @@ Finish
 
 07 - Template Method Pattern
 Start
-
+Finish
 
 08 - Command Pattern
 09 - Observer Pattern
