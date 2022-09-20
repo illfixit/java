@@ -31,7 +31,7 @@ Finish
 
 08 - Command Pattern
 Start
-
+Finish
 
 09 - Observer Pattern
 10 - Mediator Pattern
