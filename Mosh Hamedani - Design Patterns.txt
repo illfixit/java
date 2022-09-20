@@ -19,7 +19,7 @@ Finish
 
 05 - Iterator Pattern
 Start
-
+Finish
 
 06 - Strategy Pattern
 07 - Template Method Pattern
