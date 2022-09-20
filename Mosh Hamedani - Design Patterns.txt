@@ -22,6 +22,9 @@ Start
 Finish
 
 06 - Strategy Pattern
+Start
+
+
 07 - Template Method Pattern
 08 - Command Pattern
 09 - Observer Pattern
