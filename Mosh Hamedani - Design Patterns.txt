@@ -35,7 +35,7 @@ Finish
 
 09 - Observer Pattern
 Start
-
+Finish
 
 10 - Mediator Pattern
 11 - Chain of Responsibility
