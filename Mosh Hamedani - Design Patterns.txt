@@ -38,6 +38,9 @@ Start
 Finish
 
 10 - Mediator Pattern
+Start
+
+
 11 - Chain of Responsibility
 12 - Visitor Pattern
 13 - Course Wrap Up
