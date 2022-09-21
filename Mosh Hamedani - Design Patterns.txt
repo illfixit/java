@@ -39,7 +39,7 @@ Finish
 
 10 - Mediator Pattern
 Start
-
+Finish
 
 11 - Chain of Responsibility
 12 - Visitor Pattern
