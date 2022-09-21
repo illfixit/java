@@ -43,6 +43,7 @@ Finish
 
 11 - Chain of Responsibility
 Start
+Finish
 
 12 - Visitor Pattern
 13 - Course Wrap Up
