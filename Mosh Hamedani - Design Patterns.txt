@@ -47,7 +47,7 @@ Finish
 
 12 - Visitor Pattern
 Start
-
+Finish
 
 13 - Course Wrap Up
 
