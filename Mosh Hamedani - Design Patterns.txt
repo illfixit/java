@@ -50,6 +50,8 @@ Start
 Finish
 
 13 - Course Wrap Up
+Start
+
 
 The Ultimate Design Patterns Part 2
 01 - Getting Started
