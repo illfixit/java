@@ -46,6 +46,9 @@ Start
 Finish
 
 12 - Visitor Pattern
+Start
+
+
 13 - Course Wrap Up
 
 The Ultimate Design Patterns Part 2
