@@ -56,7 +56,7 @@ Finish
 The Ultimate Design Patterns Part 2
 01 - Getting Started
 Start
-
+Finish
 
 02 - Composite Pattern
 03 - Adapter Pattern
