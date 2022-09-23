@@ -60,6 +60,8 @@ Finish
 
 02 - Composite Pattern
 Start
+Finish
+
 03 - Adapter Pattern
 04 - Decorator Pattern
 05 - Facade Pattern
